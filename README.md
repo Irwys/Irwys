@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 ## I'm a windows enthusiast and developer, and I enjoy playing around with windows.
 
