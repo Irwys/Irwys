@@ -18,20 +18,20 @@ Some great youtube/content creators:
 * [John Hammond](https://www.youtube.com/@_JohnHammond)
 <details>
 <p align="center">
-  <a href="https://github.com/Irwys">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Irwys&theme=transparent" />
+  <a href="https://github.com/Dotx8">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dotx8&theme=transparent" />
   </a>
-  <a href="https://github.com/Irwys">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Irwys&hide_border=true&card_width=338&theme=transparent" />
+  <a href="https://github.com/Dotx8">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dotx8&hide_border=true&card_width=338&theme=transparent" />
   </a>
-  <a href="https://github.com/Irwys">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Irwys&theme=transparent" />
+  <a href="https://github.com/Dotx8">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dotx8&theme=transparent" />
   </a>
 </p>
 </details>
 
 <p align="center">
-  <a href="https://github.com/Irwys">
-    <img src="https://komarev.com/ghpvc/?username=Irwys&color=blue&style=flat)" />
+  <a href="https://github.com/Dotx8">
+    <img src="https://komarev.com/ghpvc/?username=Dotx8&color=blue&style=flat)" />
   </a>
 </p>
